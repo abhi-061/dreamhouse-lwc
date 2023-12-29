@@ -3,15 +3,17 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "DreamhouseLWC",
-      "versionName": "Winter '24",
-      "versionNumber": "59.0.0.NEXT"
+      "package": "th-dreamhouse",
+      "versionName": "Version 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "versionDescription": "My DreamHouse Package"
     }
   ],
   "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
   "packageAliases": {
-    "DreamhouseLWC": "0Ho3h000000PBghCAG",
-    "DreamhouseLWC@59.0.0-1": "04t3h000001Rc2FAAS"
+    "th-dreamhouse": "0Ho5g000000oMcgCAE",
+    "th-dreamhouse@1.0.0-1": "04t5g000000N6moAAC"
   }
 }
